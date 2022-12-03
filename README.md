@@ -5,6 +5,8 @@
 2）肢体动作迁移，运动锻炼目的
 3）时间充裕的话增加手势和手语识别，否则到大作业时再添加
 
+手势识别数据集 https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset
+
 # 12-1--12-2改动
 
 # 1）梁总使用mediapipe进行了模块化，该模块可以实时进行关节识别
